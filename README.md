@@ -36,10 +36,6 @@ GitHub Desktop practice repository for Collab Storytelling team.
 
 
 
-# Collab-Storytelling
-
-GitHub Desktop practice repository for Collab Storytelling team.
-
 
 
 
@@ -103,6 +99,4 @@ GitHub Desktop practice repository for Collab Storytelling team.
 
 
 This change was made on the practice branch.
-
-
 
